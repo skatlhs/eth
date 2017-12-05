@@ -1,0 +1,112 @@
+.iconpic {
+    height: 45px;
+}
+
+.imgtxt {
+    height: 100%;
+    width: 100%;
+    display: block;
+    position: relative;
+    transition: all .3s ease;
+    padding: 50px;
+    color: white;
+}
+
+.imgtxt1 {
+    background: rgba(66, 240, 220, 0.71);
+    background: rgba(0, 255, 118, 0.71);
+    background: rgba(0, 255, 255, 0.71);
+     background: rgba(255, 0, 196, 0.71);
+}
+
+.imgtxt2 {
+     background: rgba(106, 137, 222, 0.71);
+        background: rgba(255, 0, 118, 0.71);
+        background: rgba(0, 196, 255, 0.71);
+
+
+    padding:45px;
+}
+
+.imgtxt3 {
+    background: rgba(222, 106, 191, 0.71);
+    background: rgba(255, 147, 0, 0.71);
+    padding:45px;
+}
+
+.imgtxt4 {
+    background: rgba(255, 245, 0, 0.71);
+    padding:45px;
+    padding-top:155px;
+}
+
+.imgtxt5 {
+    background: rgba(255, 0, 39, 0.71);
+    padding:45px;
+    padding-top:155px;
+}
+
+.imgtxt6 {
+    background: rgba(147, 0, 255, 0.71);
+    padding:45px;
+    padding-top:75px;
+}
+
+.imgtxt7 {
+    background: rgba(255, 0, 196, 0.71);
+    padding:45px;
+    padding-top:75px;
+}
+
+.imgtxt8 {
+    background: rgba(0, 98, 255, 0.71);
+    padding:45px;
+    padding-top:165px;
+}
+
+.imgtxt9 {
+    background: rgba(62, 58, 58, 0.71);
+    padding:45px;
+    padding-top:165px;
+/*    color:black;*/
+}
+
+.panel.color1 {
+    background:#2c85d1 !important;
+}
+
+.imgtxt:hover {
+    color: white;
+    transition: all .3s ease;
+}
+
+.apptitle {
+    display: block;
+    font-weight: bold;
+    font-size: 26pt;
+}
+
+.portlink {
+    color: #2e2e2e;
+    font-size: 11pt;
+    /*    font-weight: bold !important;*/
+    /*    text-transform: uppercase;*/
+    letter-spacing: 1px;
+    padding: 4px 10px;
+    background: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 0px;
+    text-decoration: none;
+    border-bottom: none;
+    border: 1px solid rgba(255, 255, 255, 0.26);
+    transition: all .3s ease;
+    margin-right:5px;
+}
+
+.portlink:hover {
+    transition: all .3s ease;
+/*    background:white;*/
+    color:white;
+    border-color:white;
+}
+
